@@ -3,7 +3,7 @@ cpu_usage = 72
 response_time = 1.8
 registered = True
 maint_mode = False
-logged_on_user = ""
+logged_on_user = None
 projected_cpu_usage = cpu_usage + 10
 
 print(f"VDI Name: {vdi_name} | Type: {type(vdi_name)}")
