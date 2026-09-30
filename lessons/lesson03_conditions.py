@@ -1,10 +1,10 @@
 # VirtualOps Assist - Simulated desktop triage
 
 vdi_name = "vdi-03"
-power_state = "running"
 maintenance_mode = False
-is_registered = True
-cpu_usage = 25
+power_state = "stopped"
+is_registered = False
+cpu_usage = 95
 
 print(f"Checking desktop: {vdi_name}")
 
