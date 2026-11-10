@@ -1,0 +1,6 @@
+| Operation |            Input                | Output |
+|---|---|---|
+| `json.dumps()` | Python dictionary          | JSON string |
+| `json.loads()` | JSON string                | Python dictionary in this example |
+
+

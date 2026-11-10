@@ -35,3 +35,4 @@ print(f"Status code: {response['statusCode']}")
 
 response_body = json.loads(response['body'])
 print(f"Message: {response_body['message']}")
+
